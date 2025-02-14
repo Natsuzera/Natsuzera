@@ -1,6 +1,6 @@
 <!-- Cabeçalho Animado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/neural_network_banner_smooth.gif" alt="Neural Network Animation">
+  <img src="https://raw.githubusercontent.com/Natsuzera/Natsuzera/main/neural_network_banner_smooth.gif" alt="Neural Network Animation">
 </p>
 
 <h1 align="center">👋 Olá, eu sou Daniel Moura do Nascimento!</h1>
@@ -80,5 +80,5 @@ Sou um **cientista de dados** apaixonado por **Machine Learning, Deep Learning e
 
 <!-- Rodapé Animado (Opcional: pode adicionar outro GIF ou imagem) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/neural_network_banner_smooth.gif" alt="Neural Network Animation">
+  <img src="https://raw.githubusercontent.com/Natsuzera/Natsuzera/main/neural_network_banner_smooth.gif" alt="Neural Network Animation">
 </p>
