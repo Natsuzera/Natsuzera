@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um cientista de dados apaixonado por Machine Learning, Deep Learning e soluções IoT. Atualmente, exploro o universo da Inteligência Artificial, combinando algoritmos inovadores e ferramentas modernas para transformar dados em soluções que impactam positivamente a sociedade.
+Sou um cientista de dados apaixonado por Machine Learning, Deep Learning e soluções IoT. Atualmente, exploro o universo da Inteligência Artificial e RAG, combinando algoritmos inovadores e ferramentas modernas para transformar dados em soluções que impactam positivamente a sociedade.
 
 ## 🖥️ Tecnologias e Ferramentas
 
