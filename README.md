@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um cientista de dados apaixonado por Machine Learning, Deep Learning e soluções IoT. Atualmente, exploro o universo da Inteligência Artificial e RAG, combinando algoritmos inovadores e ferramentas modernas para transformar dados em soluções que impactam positivamente a sociedade.
+Sou um **cientista de dados em formação** se especializando em **Machine Learning**, **Deep Learning** e **IoT**, atuando no desenvolvimento de soluções em **Inteligência Artificial**, com ênfase em **Retrieval-Augmented Generation (RAG)** e **Visão Computacional**. Meu foco está em aplicar IA para resolver problemas práticos, como previsão de falhas em sistemas e otimização de recursos, visando impacto positivo.
 
 ## 🖥️ Tecnologias e Ferramentas
 
