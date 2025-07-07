@@ -12,7 +12,8 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **cientista de dados em formação** se especializando em **Machine Learning**, **Deep Learning** e **IoT**, atuando no desenvolvimento de soluções em **Inteligência Artificial**, com ênfase em **Retrieval-Augmented Generation (RAG)** e **Visão Computacional**. Meu foco está em aplicar IA para resolver problemas práticos, como previsão de falhas em sistemas e otimização de recursos, visando impacto positivo.
+Sou um **pesquisador em formação na área de Ciência de Dados**, com ênfase em **Machine Learning**, **Deep Learning** e **Computação de Alto Desempenho (HPC)**. Minhas atividades se concentram no desenvolvimento de sistemas baseados em **Inteligência Artificial**, com destaque para **Retrieval-Augmented Generation (RAG)**, **Visão Computacional**, **Agentes Autônomos Inteligentes** e integração via **Model Context Protocol (MCP)**. Tenho interesse na aplicação de métodos de IA em contextos de larga escala, visando à **previsão de falhas**, **otimização de recursos computacionais** e **aceleração de pipelines de inferência**, com foco em impacto social e tecnológico.
+
 
 ## 🖥️ Tecnologias e Ferramentas
 
@@ -44,6 +45,24 @@ Sou um **cientista de dados em formação** se especializando em **Machine Learn
       <p>Sistema de análise de comportamento de direção utilizando Random Forest, KMeans e PCA com 92% de acurácia. Desenvolvido com Python e SciKit-Learn.</p>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python">
       <img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow" alt="Machine Learning">
+    </td>
+    <td width="50%">
+      <h3>🚔 Visão Computacional Aplicada</h3>
+      <h4>PlacaSegura</h4>
+      <p>Modelo baseado em YOLO + OCR para detecção de placas de veículos com posterior análise para identificação de possíveis furtos.</p>
+      <img src="https://img.shields.io/badge/-YOLOv8-FF5722?style=flat-square&logo=github" alt="YOLOv8">
+      <img src="https://img.shields.io/badge/-OCR-607D8B?style=flat-square&logo=tesseract" alt="OCR">
+      <img src="https://img.shields.io/badge/-Computer_Vision-2196F3?style=flat-square&logo=opencv" alt="Visão Computacional">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 IA na Web Profunda</h3>
+      <h4>WebIntellect</h4>
+      <p>Modelo de IA com capacidade de realizar pesquisas profundas na internet e analisar criticamente os resultados retornados, integrando NLP e agentes autônomos.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python">
+      <img src="https://img.shields.io/badge/-NLP-9C27B0?style=flat-square&logo=fastapi&logoColor=white" alt="NLP">
+      <img src="https://img.shields.io/badge/-Agentes_IA-4CAF50?style=flat-square&logo=openai" alt="Agentes de IA">
     </td>
     <td width="50%">
       <h3>🤖 Impacto Social</h3>
