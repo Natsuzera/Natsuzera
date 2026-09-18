@@ -36,70 +36,72 @@ Uma parte importante do que gosto de explorar está justamente na fronteira entr
 
 ## 🔭 Atualmente explorando
 
+<div align="center">
+
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td valign="top" width="320">
 
 ### 👁️ Computer Vision
 
-* Object Detection
-* Instance Segmentation
-* Multi-Object Tracking
-* Video Object Segmentation
-* Optical Flow
-* Pose Estimation
-* Video Understanding
-* Vision-Language Models
+- Object Detection
+- Instance Segmentation
+- Multi-Object Tracking
+- Video Object Segmentation
+- Optical Flow
+- Pose Estimation
+- Video Understanding
+- Vision-Language Models
 
-</td>
-
-<td width="50%" valign="top">
+   </td>
+    <td valign="top" width="320">
 
 ### ⚡ AI Inference
 
-* ONNX Runtime
-* TensorRT
-* Quantization
-* Local LLMs / VLMs
-* GPU inference
-* Real-time pipelines
-* Model optimization
-* Performance profiling
+- ONNX Runtime
+- TensorRT
+- Quantization
+- Local LLMs / VLMs
+- GPU inference
+- Real-time pipelines
+- Model optimization
+- Performance profiling
 
-</td>
-</tr>
+   </td>
+  </tr>
 
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td valign="top" width="320">
 
 ### 🎥 Video & Streaming
 
-* OpenCV
-* GStreamer
-* RTSP
-* Video pipelines
-* Multi-camera systems
-* GPU video processing
-* Real-time processing
+- OpenCV
+- GStreamer
+- RTSP
+- Video pipelines
+- Multi-camera systems
+- GPU video processing
+- Real-time processing
 
-</td>
-
-<td width="50%" valign="top">
+   </td>
+    <td valign="top" width="320">
 
 ### ⚙️ Systems & Backend
 
-* Go
-* Python
-* C / C++
-* Rust
-* Docker
-* Kafka
-* Linux
-* Distributed services
+- Go
+- Python
+- C / C++
+- Rust
+- Docker
+- Kafka
+- Linux
+- Distributed services
 
-</td>
-</tr>
+   </td>
+  </tr>
 </table>
+
+</div>
 
 ---
 
